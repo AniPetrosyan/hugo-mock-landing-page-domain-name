@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://AniPetrosyan.github.io/hugo-mock-landing-page/'
 title = "NexaSphere VR"
 author = "Ani Petrosyan"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Ani Petrosyan"
 
 timeZone = 'Europe/London'
 
