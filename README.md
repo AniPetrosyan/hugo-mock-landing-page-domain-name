@@ -1,1 +1,0 @@
-# hugo-mock-landing-page
