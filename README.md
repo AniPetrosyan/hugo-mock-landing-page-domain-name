@@ -1,4 +1,4 @@
-# hugo-mock-landing-page-autodeployed
+# hugo-mock-landing-page-domain-name
 
 This repository is a demonstration of how to automate the deployment of a Hugo website to GitHub Pages using GitHub Actions. The process involves setting up a workflow that builds the website and deploys it to the `gh-pages` branch whenever changes are pushed to the main branch.
 
