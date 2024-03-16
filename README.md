@@ -1,5 +1,5 @@
 # hugo-mock-landing-page-domain-name
 
-Configured the Domain Name to Point to my GitHub Pages Website
+Configured the domain name to point to my GitHub Pages Website
 
 
